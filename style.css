@@ -1,0 +1,4 @@
+/* Regra de teste para identificar problema de layout */
+.seu-elemento {
+    border: 2px solid red;
+}
